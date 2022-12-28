@@ -1,5 +1,5 @@
-public class yousof{
-  public static void main (string []args){
+public class ELSAKA{
+  public static void main (String []args){
       System.out.println( "yousof elsaka");
   }
 
